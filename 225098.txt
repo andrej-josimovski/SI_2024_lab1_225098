@@ -1,0 +1,10 @@
+git init - initialized empty Git repository in given directory where git metadata is stored.
+git remote - used to create, view, and delete connections to other repositories.
+git status - tells the current state of the repository.
+git add - used after checking the status of the files, to add those files to the staging area.
+git commit - makes sure that the changes are saved to the local repository. 
+git branch - used to determine what branch the local repository is on.
+git checkout - used to switch branches, whenever the work is to be started on a different branch.
+git merge - used to integrate the branches together. The command combines the changes from one branch to another branch.
+git push - used to transfer the commits or pushing the content from the local repository to the remote repository.
+git log - shows the order of the commit history for a repository.
